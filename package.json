@@ -1,6 +1,6 @@
 {
   "name": "@shixinde/guoguo-prettier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "袁果锅生态 - 代码书写规范",
   "main": "index.js",
   "scripts": {
